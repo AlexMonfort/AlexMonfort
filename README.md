@@ -15,6 +15,7 @@ I completed my Master's in Bioinformatics and Biostatistics. In addition, I deve
 - I’m looking forward to collaborate on open source projects.
 
 - You can download my resume here:
+  
 [![Descargar CV](https://img.shields.io/badge/Descargar%20CV-PDF-red?style=for-the-badge&logo=adobe)](https://github.com/AlexMonfort/AlexMonfort/blob/main/Alex_MonfortContinente_CV.pdf)
 
 
